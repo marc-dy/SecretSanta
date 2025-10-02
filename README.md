@@ -1,5 +1,5 @@
 # Pre-requisite
-1. Python should be instealled in your computer
+1. Python should be installed in your computer
 2. Setup access to GMail's SMTP Server
    1. Enable 2-step verification in your Gmail account settings
    2. Generate an app password for your Python script
