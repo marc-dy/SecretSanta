@@ -1,0 +1,21 @@
+{
+  "sender_email": "sample.email@test.com",
+  "sender_password": "asdfg",
+  "email_header": "Exchange Gift",
+  "email_msg": "This can be empty or some additional text. Add a \n for line break.",
+  "player_count": 3,
+  "players": [
+    {
+      "name": "Juan",
+      "email": "juan@yahoo.com"
+    },
+    {
+      "name": "Julio",
+      "email": "julioyahoo.com"
+    },
+    {
+      "name": "Jose",
+      "email": "jose@gmail.com"
+    }
+  ]
+}
